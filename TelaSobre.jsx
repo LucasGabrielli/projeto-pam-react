@@ -12,7 +12,7 @@ function TelaSobre({ navigation }) {
             <Text>Sobre</Text>
 
             <text>
-                Site com navegação em React que terá como objetivo resumir brevemente do que se trata Ordem Paranormal, com textos explicando seu conceito de uma forma
+                Aplicativo com navegação em React que terá como objetivo resumir brevemente do que se trata Ordem Paranormal, com textos explicando seu conceito de uma forma
             simples e rápida.
             </text>
             <text>
